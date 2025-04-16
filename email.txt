@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 update email data
 
 liaparkel@gmail.com
-=======
 new user email data
 
 liaparkel@gmail.com
->>>>>>> new_user
+
